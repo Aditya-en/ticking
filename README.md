@@ -69,7 +69,7 @@ If you want to build this project locally:
 
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/Aditya-en/ticking.git](https://github.com/Aditya-en/ticking.git)
+    git clone https://github.com/Aditya-en/ticking.git
     cd ticking
     ```
 
