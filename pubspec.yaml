@@ -36,6 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   wallpaper_manager_plus: ^2.0.3
   path_provider: ^2.1.1
+  shared_preferences: ^2.2.2   # For saving settings
+  workmanager: ^0.9.0
 
 dev_dependencies:
   flutter_test:
